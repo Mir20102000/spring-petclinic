@@ -1,5 +1,6 @@
 2branch 1commit
 2branch 2commit
+3branch 3commit
 # Spring PetClinic Sample Application [![Build Status](https://github.com/spring-projects/spring-petclinic/actions/workflows/maven-build.yml/badge.svg)](https://github.com/spring-projects/spring-petclinic/actions/workflows/maven-build.yml)
 
 ## Understanding the Spring Petclinic application with a few diagrams
